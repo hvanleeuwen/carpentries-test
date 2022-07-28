@@ -5,6 +5,7 @@ import sys
 import os
 import shutil
 
+
 BOILERPLATE = (
     'AUTHORS',
     'CITATION',
